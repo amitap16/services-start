@@ -2,8 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\app"
+    "\\src\\app",
+    "\\src\\app\\account",
+    "\\src\\app\\new-account",
+    "\\src\\app\\shared",
+    "\\src\\app\\shared\\services"
   ],
-  "SelectedNode": "\\src\\app",
+  "SelectedNode": "\\src\\app\\account\\account.component.ts",
   "PreviewInSolutionExplorer": false
 }
